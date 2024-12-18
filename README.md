@@ -39,7 +39,7 @@ If you have suggestions or improvements, feel free to open a pull request or an 
 
 ## Contact
 If you'd like to connect, you can reach me via:
-- Email: your-email@example.com
+- Email: pavan2016218@gmail.com
 - LinkedIn: [Pavan's Profile](https://www.linkedin.com/in/anaparthi-pavan-636205289/)
 
 ---
